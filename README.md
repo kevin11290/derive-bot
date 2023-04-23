@@ -155,7 +155,6 @@ You can find some example blocks in the [`Examples`](/examples) folder.
 
 **Disclaimer**: _All the files and codes in the above links are intended for educational and informational purposes only. They should not be construed as giving investment advice, and you should not rely on them as your singular factor in making or refraining from making any investment decisions. Binary.com accepts no liability whatsoever for any losses incurred by users in their trading. Binary options trading may incur losses as well as gains._
 
-
 ## FAQ
 
 ### <a name='q1'> 1. Issue with installing packages</a>
